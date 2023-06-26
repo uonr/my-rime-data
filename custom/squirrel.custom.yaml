@@ -1,0 +1,3 @@
+patch:
+  # 防止 Squirrel 在某些应用中试图自动切换英文模式
+  app_options:
